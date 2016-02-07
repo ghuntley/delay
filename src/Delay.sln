@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delay", "Delay\Delay.csproj", "{6C4BFF26-5840-4C2B-BC64-5D28EABAEAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delay.Tests", "Delay.Tests\Delay.Tests.csproj", "{910162A9-4320-48DF-AF57-9C8343790633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4BFF26-5840-4C2B-BC64-5D28EABAEAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4BFF26-5840-4C2B-BC64-5D28EABAEAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4BFF26-5840-4C2B-BC64-5D28EABAEAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4BFF26-5840-4C2B-BC64-5D28EABAEAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910162A9-4320-48DF-AF57-9C8343790633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910162A9-4320-48DF-AF57-9C8343790633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910162A9-4320-48DF-AF57-9C8343790633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910162A9-4320-48DF-AF57-9C8343790633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
